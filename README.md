@@ -27,7 +27,7 @@ Questions to be answered:
 - Who are the most and least performing salesperson?
 - Which items contribute the most to the revenue?". 
 
-![Sales Performance Dashboard](assets/Sales_Performance.png)
+![Sales Performance Dashboard](/assets/Sales_Performance_Dashboard.png)
 
 ### Customer Performance
 
@@ -39,7 +39,7 @@ Questions to be answered:
 - What items they bought this year?
 - What items they bought previous year but not in this year?
 
-![Customer Dashboard](assets/Customer_Dashboards.png)
+![Customer Dashboard](/assets/Customer_Dashboards.png)
 
 ### Customer Behavior & Geoloc
 
@@ -48,7 +48,7 @@ Questions to be answered:
 - How are the customer & revenue distributions on each segment?
 - How is the customer retention on each segment?
 
-![Customer Behavior & Geoloc Dashboard](assets/Customer_Behavior_Dashboard.png)
+![Customer Behavior & Geoloc Dashboard](/assets/Customer_Behavior_Dashboard.png)
 
 ### Account Receivables
 
@@ -57,4 +57,4 @@ Questions to be answered:
 - How much the account receivables the company has?
 - How much the account receivables each salesperson has?
 
-![Account Receivable Dashboard](assets/Receivable_Dashboard.png)
+![Account Receivable Dashboard](/assets/Receivable_Dashboard.png)
