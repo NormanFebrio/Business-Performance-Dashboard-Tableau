@@ -39,7 +39,7 @@ Questions to be answered:
 - What items they bought this year?
 - What items they bought previous year but not in this year?
 
-![Customer Dashboard](/assets/Customer_Dashboards.png)
+![Customer Dashboard](/assets/Customer_Dashboard.png)
 
 ### Customer Behavior & Geoloc
 
