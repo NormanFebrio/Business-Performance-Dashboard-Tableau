@@ -71,9 +71,9 @@ This workbook uses **4 parameters** and **8 filters** to control what data is di
 
 | Parameter | Options | Connected Dashboards |
 |-----------|---------|----------------------|
-| **Pilih Analisis** | MTD, YTD, Last 30D | SP, CP |
+| **Pilih Analisis (Choose Analysis)** | MTD, YTD, Last 30D | SP, CP |
 | **Data INV/SO** | Invoice, Sales Order | SP, CP |
-| **Hanya Sales Terpilih** | Yes, All Sales | CP, CB |
+| **Hanya Sales Terpilih (Only Selected Sales)** | Yes, All Sales | CP, CB |
 | **Range Aging** | Global, < 7 D, >= 7 D, >= 30 D, >= 60 D, >= 90 D, >= 180 D, >= 365 D | AR |
 
 ---
