@@ -104,5 +104,6 @@ The Account Receivables dashboard uses its own independent set of filters and is
 | Sales (AR) | ✅ |
 | Customer (AR) | ✅ |
 
-> **Why are AR filters separate?**
-> The AR dashboard uses a different dataset from the other three dashboards. The relationship key used across SP, CP, and CB is `Sales Name` — however, in the AR context, data is viewed per customer, and a single customer can be associated with more than one salesperson. Forcing a shared filter on `Sales Name` would cause incomplete AR data to appear, as records tied to unselected salespersons would be excluded even if they belong to the same customer. To preserve data integrity, AR filters are kept independent.
+**Why are AR filters separate?**
+
+The AR dashboard uses a different dataset from the other three dashboards. The relationship key used across SP, CP, and CB is `Sales Name` — however, in the AR context, data is viewed per customer, and a single customer can be associated with more than one salesperson. Forcing a shared filter on `Sales Name` would cause incomplete AR data to appear, as records tied to unselected salespersons would be excluded even if they belong to the same customer. To preserve data integrity, AR filters are kept independent.
