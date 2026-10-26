@@ -69,8 +69,6 @@ This workbook uses **4 parameters** and **8 filters** to control what data is di
 
 ### Parameters
 
-Parameters are global controls that affect how data is calculated or displayed across connected dashboards.
-
 | Parameter | Options | Connected Dashboards |
 |-----------|---------|----------------------|
 | **Pilih Analisis** | MTD, YTD, Last 30D | SP, CP |
@@ -81,8 +79,6 @@ Parameters are global controls that affect how data is calculated or displayed a
 ---
 
 ### Filters
-
-Filters are interactive selections that narrow down the data shown on connected dashboards.
 
 #### Shared Filters (SP - CP - CB)
 
