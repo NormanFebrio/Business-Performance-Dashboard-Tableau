@@ -18,6 +18,8 @@ The director wants to see how is the business going. He wants to know the sales 
 
 ## Dashboards
 
+Check the demo through this link: https://youtu.be/ix4kxtYiOg4
+
 ### Sales Performance (SP)
 
 Questions to be answered:
